@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zhuticheer.github.io/yidao-official-site/sitemap.xml
