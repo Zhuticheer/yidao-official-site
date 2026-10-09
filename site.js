@@ -60,7 +60,7 @@ if (download.url && /^https:\/\//.test(download.url)) {
   if (download.qr) {
     const image = document.createElement('img');
     image.src = download.qr;
-    image.alt = '一刀切成首富 TapTap 二维码';
+    image.alt = '玉石经营模拟器 TapTap 二维码';
     image.className = 'download-qr';
     slot.append(image);
   }
