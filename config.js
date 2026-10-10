@@ -1,2 +1,2 @@
-// Set the public player-facing TapTap URL after it is confirmed. Never use developer or test links.
-export const download = { url: '', qr: '' };
+// Public player-facing TapTap entry confirmed by the game owner.
+export const download = { url: 'https://tap.cn/WPz9R589', qr: './assets/taptap-qr.png' };
